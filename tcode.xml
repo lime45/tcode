@@ -4,5 +4,6 @@
 	<Gather input="speech"
 		action="/finalresult"
 		partialResultCallback="/partialResult">
+	<Say>Say ahoy to Twilio Speech Recognition!</Say>
 </Gather>
 </Response>
